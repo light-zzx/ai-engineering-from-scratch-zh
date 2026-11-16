@@ -151,3 +151,6 @@ site/lesson-code/
 site/interviews/
 site/interviews.json
 site/sitemap-interviews.xml
+
+# 本地绘制的图不上传
+notebook*.png
